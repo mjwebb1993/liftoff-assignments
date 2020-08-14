@@ -7,13 +7,20 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+There are four wire frames with links to each:
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+  * [Login Page] (https://github.com/webby12333/liftoff-assignments/blob/master/P3-Project_Planning/Login.png)
+  * [Register Page] (https://github.com/webby12333/liftoff-assignments/blob/master/P3-Project_Planning/Register.png)
+  * [User/Home Page] (https://github.com/webby12333/liftoff-assignments/blob/master/P3-Project_Planning/UserHome.png)
+  * [File/Forum Page] (https://github.com/webby12333/liftoff-assignments/blob/master/P3-Project_Planning/FileForum.png)
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Capstone Project Tracker] (https://trello.com/b/b0laStbC/capstone-project)
+
+I added a few user stories to my trello board.
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Repositoty Link to my still to be titled [capstone project] (https://github.com/webby12333/capstone-project)
